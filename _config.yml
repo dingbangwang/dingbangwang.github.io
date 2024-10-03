@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dingbang(Ben) Wang's Homepage"
 title_separator          : "-"
-name                     : Dingbang(Ben) Wang
+#name                     : Dingbang(Ben) Wang
 #description              : &description "personal description"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,8 +21,8 @@ name                     : Dingbang(Ben) Wang
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  #name             : "Your Sidebar Name"
+  avatar           : "db.png"
+  name             : Dingbang(Ben) Wang
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
