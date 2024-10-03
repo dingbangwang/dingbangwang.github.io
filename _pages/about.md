@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computing, University of Connecticut, USA. My advisor is [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu/). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
+I am a PhD student at the School of Computing, University of Connecticut, USA. My advisor is [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
 
 Publications
 ======
