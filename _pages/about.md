@@ -13,7 +13,7 @@ Publications
 3. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi and Tingting Yu. In Proceedings of the ACM International Symposium on Software Testing and Analysis. 2024.
 
 
-2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps**
+2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.**
 Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
 In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear).
 
