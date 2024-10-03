@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dingbang(Ben) Wang's Homepage"
+title                    : "Dingbang Wang"
 title_separator          : "-"
-name                     : Dingbang(Ben) Wang
+#name                     : &name "Your Name"
 #description              : &description "personal description"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ name                     : Dingbang(Ben) Wang
 author:
   # Biographic information
   avatar           : "profile.png"
-  #name             : "Your Sidebar Name"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
-  #location         : "Earth"
-  #employer         : "Red Brick University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "dingbang.wang@uconn.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
