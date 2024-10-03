@@ -30,7 +30,7 @@ Teaching && Tutoring
 <br> University of Connecticut
 
 **Head Supplemental Instruction Leader/Tutor**
-<br> Math151: Calculus 1,  Math251:Calculus 1 (Fall 2016 - May 2019)
+<br> Math151: Calculus 1,  Math251:Calculus 2 (Fall 2016 - May 2019)
 <br> Miami University 
 <br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
 
