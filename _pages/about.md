@@ -10,17 +10,15 @@ I am a PhD student at the School of Computing, University of Connecticut, USA. M
 
 Publications
 ======
-1. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**
-<br/> ACM SIGSOFT International Symposium on Software Testing and Analysis
-<br/>Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, Tingting Yu. 
+3. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi and Tingting Yu. In Proceedings of the ACM International Symposium on Software Testing and Analysis. 2024.
 
-2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps**
-<br/> Asia-Pacific Software Engineering Conference (to appear)
-<br/> Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
 
-3. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.**
-<br/> ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
-<br/> Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.
+2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.**
+Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
+In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear).
+
+
+1. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.  In Proceedings of ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
 
 
 Teaching && Tutoring
