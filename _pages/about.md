@@ -22,6 +22,18 @@ Publications
 <br/> ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
 <br/> Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.
 
+
+Teaching && Tutoring
+------
+**Substitute Instructor**
+<br> CSE 2102: Introduction to Software Engineering (Spring 2024)
+<br> University of Connecticut
+
+**Head Supplemental Instruction Leader/Tutor**
+<br> Math151: Calculus 1,  Math251:Calculus 1 (Fall 2016 - May 2019)
+<br> Miami University 
+<br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
+
 Award && Fellowship
 ======
 * The Predoctoral Prize for Research Excellence, University of Connecticut
@@ -35,6 +47,3 @@ Award && Fellowship
 
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
