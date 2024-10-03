@@ -22,7 +22,7 @@ In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear
 
 
 Teaching && Tutoring
-------
+======
 **Substitute Instructor**
 <br> CSE 2102: Introduction to Software Engineering (Spring 2024)
 <br> University of Connecticut
