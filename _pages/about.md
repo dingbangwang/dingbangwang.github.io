@@ -10,17 +10,13 @@ I am a PhD student at the School of Computing, University of Connecticut, USA. M
 
 Publications
 ======
-1. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**
-<br/> ACM SIGSOFT International Symposium on Software Testing and Analysis
-<br/>Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, Tingting Yu. 
+1. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** ACM SIGSOFT International Symposium on Software Testing and Analysis Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, Tingting Yu. 
 
 2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps**
-<br/> Asia-Pacific Software Engineering Conference (to appear)
-<br/> Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
+Asia-Pacific Software Engineering Conference (to appear).
+Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
 
-3. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.**
-<br/> ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
-<br/> Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.
+3. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.
 
 
 Teaching && Tutoring
