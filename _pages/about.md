@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the School of Computing, University of Connecticut, USA. My advisor is [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu/people/). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
+I am a PhD student at the School of Computing, University of Connecticut, USA, under the supervision of [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
 
 Publications
 ======
@@ -22,13 +22,13 @@ In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear
 
 
 Teaching && Tutoring
-------
+======
 **Substitute Instructor**
-<br> CSE 2102: Introduction to Software Engineering (Spring 2024)
+<br> CSE 2102: Introduction to Software Engineering. (Spring 2024)
 <br> University of Connecticut
 
 **Head Supplemental Instruction Leader/Tutor**
-<br> Math151: Calculus 1,  Math251:Calculus 2 (Fall 2016 - May 2019)
+<br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - May 2019)
 <br> Miami University 
 <br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
 
@@ -38,7 +38,6 @@ Award && Fellowship
 * Graduate Research Assistantship(Fully Funded), University of Connecticut 
 * Robert J. Herbold Fellowship, University of Cincinnati
 * Graduate Research Assistantship(Fully Funded), University of Cincinnati 
-* The Graduate Incentive Award, University of Cincinnati
 * Grothen CS & SA scholarship, Miami Univeristy
 
 
