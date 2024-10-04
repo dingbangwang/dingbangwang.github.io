@@ -38,7 +38,6 @@ Award && Fellowship
 * Graduate Research Assistantship(Fully Funded), University of Connecticut 
 * Robert J. Herbold Fellowship, University of Cincinnati
 * Graduate Research Assistantship(Fully Funded), University of Cincinnati 
-* The Graduate Incentive Award, University of Cincinnati
 * Grothen CS & SA scholarship, Miami Univeristy
 
 
