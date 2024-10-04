@@ -24,11 +24,11 @@ In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear
 Teaching && Tutoring
 ======
 **Substitute Instructor**
-<br> CSE 2102: Introduction to Software Engineering (Spring 2024)
+<br> CSE 2102: Introduction to Software Engineering. (Spring 2024)
 <br> University of Connecticut
 
 **Head Supplemental Instruction Leader/Tutor**
-<br> Math151: Calculus 1 && Math251:Calculus 2 (Fall 2016 - May 2019)
+<br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - May 2019)
 <br> Miami University 
 <br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
 
