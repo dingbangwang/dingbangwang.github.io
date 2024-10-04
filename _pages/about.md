@@ -28,7 +28,7 @@ Teaching && Tutoring
 <br> University of Connecticut
 
 **Head Supplemental Instruction Leader/Tutor**
-<br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - May 2019)
+<br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - Spring 2019)
 <br> Miami University 
 <br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
 
