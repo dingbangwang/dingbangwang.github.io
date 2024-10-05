@@ -21,7 +21,7 @@ In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear
 1. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.  In Proceedings of ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
 
 
-Teaching && Tutoring
+Teaching
 ======
 **Substitute Instructor**
 <br> CSE 2102: Introduction to Software Engineering. (Spring 2024)
@@ -32,7 +32,7 @@ Teaching && Tutoring
 <br> Miami University 
 <br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
 
-Award && Fellowship
+Honors and Awards
 ======
 * The Predoctoral Prize for Research Excellence, University of Connecticut
 * Graduate Research Assistantship (Fully Funded), University of Connecticut 
