@@ -31,6 +31,7 @@ Teaching
 <br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - Spring 2019)
 <br> Miami University 
 <br> Certificates: CRLA Level 1, 2, 3 (Regular, Advanced, Master) Certified Tutor 
+
 Honors and Awards
 ======
 * The Predoctoral Prize for Research Excellence, University of Connecticut
