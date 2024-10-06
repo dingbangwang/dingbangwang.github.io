@@ -30,7 +30,7 @@ Teaching
 **Head Supplemental Instruction Leader/Tutor**
 <br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - Spring 2019)
 <br> Miami University 
-<br> Certificates: CRLA (College Reading and Learning Association) Level 1, 2, 3 Certified Tutor
+<br> CRLA Level 1 (Regular), Level 2 (Advanced), Level 3 (Master) Certified Tutor
 
 Honors and Awards
 ======
