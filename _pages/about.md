@@ -10,16 +10,24 @@ I am a PhD student at the School of Computing, University of Connecticut, USA, u
 
 Publications
 ======
-3. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** Dingbang Wang, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi and Tingting Yu. In Proceedings of the ACM International Symposium on Software Testing and Analysis. 2024.
+1. [MSR'25] **An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu.  In Proceedings of the International Conference on Mining Software Repositories. 2025.
+   
+2. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi and Tingting Yu. In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.
 
+3. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.**
+Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, Yu Zhao. 
+In Proceedings of Asia-Pacific Software Engineering Conference. 2024.
 
-2. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.**
-Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, Dingbang Wang, Yu Zhao. 
-In Proceedings of  Asia-Pacific Software Engineering Conference. 2024 (to appear).
+4. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu.  In Proceedings of ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
 
+Service
+======
 
-1. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** Dingbang Wang, Yu Zhao, Lu Xiao, and Tingting Yu.  In Proceedings of ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
+**Program Committee (PC) Member**:  
+- ISSTA 2025, Tool Demonstrations Track  
 
+**Reviewer**:  
+- IUI 2025
 
 Teaching
 ======
