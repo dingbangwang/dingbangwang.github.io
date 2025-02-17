@@ -2,6 +2,36 @@
 
 <meta charset="utf-8">
 
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- 正确的站点标题 -->
+    <title>{{ site.title }}</title>
+
+    <!-- 描述信息 -->
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- Open Graph 站点标题（用于 Facebook、LinkedIn） -->
+    <meta property="og:title" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card 设置（用于 Twitter 预览） -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+
+    <!-- Favicon（网站图标） -->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
+</head>
+
+
 {% include seo.html %}
 <link rel="icon" href="{{ base_path }}/images/icon.ico" type="image/x-icon">
 
