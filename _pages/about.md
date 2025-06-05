@@ -20,14 +20,16 @@ In Proceedings of Asia-Pacific Software Engineering Conference. 2024.
 
 4. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu.  In Proceedings of ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
 
-Service
+Academic Service
 ======
 
-**Program Committee (PC) Member**:  
-- ISSTA 2025, Tool Demonstrations Track  
+**Conference**  
+- Program Committee Member, *International Symposium on Software Testing and Analysis (ISSTA) 2025*, Tool Demonstrations Track  
+- Reviewer, *ACM Conference on Intelligent User Interfaces (IUI) 2025*
 
-**Reviewer**:  
-- IUI 2025
+**Journal**  
+- Reviewer, *Engineering Applications of Artificial Intelligence (EAAI)*
+
 
 Teaching
 ======
