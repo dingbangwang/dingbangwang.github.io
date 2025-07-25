@@ -23,8 +23,8 @@ In Proceedings of Asia-Pacific Software Engineering Conference. 2024.
 Academic Service
 ======
 - PC Member: ISSTA '25, Tool Demonstrations Track  
-- Reviewer: IUI '25, EAAI (Journal)
-
+- Conference Reviewer: IUI '25  
+- Journal Reviewer: ASE, EAAI
 
 
 Teaching
