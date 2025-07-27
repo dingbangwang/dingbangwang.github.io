@@ -24,7 +24,10 @@ Academic Service
 ======
 - PC Member: ISSTA '25, Tool Demonstrations Track  
 - Conference Reviewer: IUI '25  
-- Journal Reviewer: ASE, EAAI
+- Journal Reviewer:
+    - Automated Software Engineering (ASE)
+    - The Journal of Systems & Software (JSS)
+    - Engineering Applications of Artificial Intelligence (EAAI)
 
 
 Teaching
