@@ -1,10 +1,13 @@
 ---
 permalink: /
+layout: single
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I am a PhD student at the School of Computing, University of Connecticut, USA, under the supervision of [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
 
