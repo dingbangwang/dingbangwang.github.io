@@ -1,0 +1,23 @@
+// 调整整体内容宽度
+.page {
+  max-width: 1200px !important; /* 默认大约是 800px */
+  margin: 0 auto;
+}
+
+// 调整 Sidebar 和主内容的比例
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 220px !important;  // 默认是 300px
+  }
+
+  .layout--page {
+    display: grid;
+    grid-template-columns: 220px auto;
+    column-gap: 2rem;
+  }
+}
+
+// 如果你启用了 sticky sidebar，可以再微调：
+.sidebar__inner {
+  max-width: 220px !important;
+}
