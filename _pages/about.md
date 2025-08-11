@@ -12,7 +12,7 @@ redirect_from:
 I am a PhD student at the School of Computing, University of Connecticut, USA, under the supervision of [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include software testing,  the application of large language models in software engineering, and software engineering for bioinformatics.
 
 ## Publications
-1. [MSR'25] **An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu.  In Proceedings of the International Conference on Mining Software Repositories. 2025.
+1. [MSR'25] **An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu.  In Proceedings of the IEEE/ACM International Conference on Mining Software Repositories. 2025.
    
 2. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi and Tingting Yu. In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.
 
