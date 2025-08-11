@@ -25,13 +25,14 @@ In Proceedings of Asia-Pacific Software Engineering Conference. 2024.
 ## Academic Service
 - **Program Committee Member**
   - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool]
+  - ACM Conference on Intelligent User Interfaces (IUI) [’25]
 
 - **Reviewer**
   - IEEE Transactions on Software Engineering (TSE)
   - Journal of Systems and Software (JSS)
   - Automated Software Engineering (ASE)
   - Engineering Applications of Artificial Intelligence (EAAI)
-  - ACM Conference on Intelligent User Interfaces (IUI) [’25]
+  
 
 
 ## Teaching
