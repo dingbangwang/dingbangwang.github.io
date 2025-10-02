@@ -24,7 +24,8 @@ In Proceedings of Asia-Pacific Software Engineering Conference. 2024.
 
 ## Academic Service
 - **Conference Program Committee Member**
-  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool]
+  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
+  - IEEE/ACM International Conference on Mining Software Repositories (MSR) [’25 Technical Track (Junior PC)]
   - ACM Conference on Intelligent User Interfaces (IUI) [’25]
 
 - **Journal Reviewer**
