@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student in the School of Computing at the University of Connecticut, USA, advised by [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include **LLMs for software engineering**, **automated software testing and debugging**, **empirical software engineering**, and **domain-specific software engineering (e.g., bioinformatics)**.
+I am a Ph.D. student in the School of Computing at the University of Connecticut, USA, advised by [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University, USA. My research interests include *LLMs for software engineering*, *automated software testing and debugging*, *empirical software engineering*, and *domain-specific software engineering (e.g., bioinformatics)*.
 
 
 
