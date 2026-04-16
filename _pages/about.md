@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-author_profile: false
+author_profile: true
 classes: wide
 redirect_from: 
   - /about/
