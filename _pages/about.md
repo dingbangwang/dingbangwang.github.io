@@ -35,17 +35,16 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
     <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu. 
 
 ## Academic Service
-- **Conference Program Committee Member**
+- **Program Committee Member**
   - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
   - IEEE/ACM International Conference on Mining Software Repositories (MSR) [’25 Technical Track (Junior PC)]
-  - ACM Conference on Intelligent User Interfaces (IUI) [’25]
 
-- **Journal Reviewer**
+- **Reviewer**
   - IEEE Transactions on Software Engineering (TSE)
   - Journal of Systems and Software (JSS)
   - Automated Software Engineering (ASE)
   - Engineering Applications of Artificial Intelligence (EAAI)
-  
+  - ACM Conference on Intelligent User Interfaces (IUI) [&apos;25]
 
 
 ## Teaching
