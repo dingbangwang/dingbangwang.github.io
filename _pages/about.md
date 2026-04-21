@@ -16,22 +16,22 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 
 ## Publications
 
-1. **[FSE'26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
+1. **[[FSE&apos;26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
    Sidong Feng, <ins>Dingbang Wang</ins>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen. 
 
-2. **[FSE'26 IVR] Bio-Aware Software Engineering for Reproducible Research.** \
+2. **[FSE&apos;26 IVR] Bio-Aware Software Engineering for Reproducible Research.** \
    Yiming Zeng, <ins>Dingbang Wang</ins>, Ryan Green, Jinze Liu, Tingting Yu. 
 
-3. **[MSR'25] An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** \
+3. **[MSR&apos;25] An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** \
    <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu. 
    
-4. **[ISSTA'24] Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**  \
+4. **[ISSTA&apos;24] Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**  \
    <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu. 
    
-5. **[APSEC'24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \
+5. **[APSEC&apos;24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \
    Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. 
 
-6. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** \
+6. **[ESEM&apos;23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** \
     <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu. 
 
 ## Academic Service
