@@ -16,7 +16,7 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 
 ## Publications
 
-1. **[[FSE&apos;26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
+1. **[FSE&apos;26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
    Sidong Feng, <ins>Dingbang Wang</ins>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen. 
 
 2. **[FSE&apos;26 IVR] Bio-Aware Software Engineering for Reproducible Research.** \
