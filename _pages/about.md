@@ -16,17 +16,23 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 
 ## Publications
 
-1. [FSE'26] **ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** Sidong Feng, <ins>Dingbang Wang</ins>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen. In Proceedings of the ACM International Conference on the Foundations of Software Engineering. 2026.
+1. **[FSE'26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
+   Sidong Feng, <ins>Dingbang Wang</ins>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen. 
 
-2. [FSE'26 IVR] **Bio-Aware Software Engineering for Reproducible Research.** Yiming Zeng, <ins>Dingbang Wang</ins>, Ryan Green, Jinze Liu, Tingting Yu. In Proceedings of the ACM International Conference on the Foundations of Software Engineering, Ideas, Visions and Reflections Track. 2026.
+2. **[FSE'26 IVR] Bio-Aware Software Engineering for Reproducible Research.** \
+   Yiming Zeng, <ins>Dingbang Wang</ins>, Ryan Green, Jinze Liu, Tingting Yu. 
 
-3. [MSR'25] **An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu. In Proceedings of the IEEE/ACM International Conference on Mining Software Repositories. 2025.
+3. **[MSR'25] An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** \
+   <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu. 
    
-4. [ISSTA'24] **Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.** <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu. In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis. 2024.
+4. **[ISSTA'24] Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**  \
+   <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu. 
+   
+5. **[APSEC'24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \ 
+    Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. 
 
-5. [APSEC'24] **A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. In Proceedings of the Asia-Pacific Software Engineering Conference. 2024.
-
-6. [ESEM'23] **An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu. In Proceedings of the ACM/IEEE International Symposium on Empirical Software Engineering and Measurement. 2023.
+6. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.**  \
+    <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu. 
 
 ## Academic Service
 - **Conference Program Committee Member**
