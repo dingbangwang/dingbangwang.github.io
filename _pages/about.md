@@ -28,10 +28,10 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 4. **[ISSTA'24] Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**  \
    <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu. 
    
-5. **[APSEC'24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \ 
-    Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. 
+5. **[APSEC'24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \
+   Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. 
 
-6. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.**  \
+6. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** \
     <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu. 
 
 ## Academic Service
