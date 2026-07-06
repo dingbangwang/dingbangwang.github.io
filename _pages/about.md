@@ -16,8 +16,8 @@ redirect_from:
     <h2 class="profile-card__name">{{ site.author.name }}</h2>
     <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics)</em>.</p>
     <ul class="profile-card__links">
-      <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
-      <li><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+      <li><a href="mailto:{{ site.author.email }}" title="Email" aria-label="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a></li>
+      <li><a href="{{ site.author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>
     </ul>
   </div>
 </div>
