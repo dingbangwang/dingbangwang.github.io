@@ -112,9 +112,16 @@
     text-align: right;
   }
 
+  .compact-list p:has(> strong:only-child) {
+    margin: 1.75em 0 0.4em;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
   .compact-list strong {
     display: inline-block;
-    margin-top: 0.5em;
     padding-bottom: 0.2em;
     border-bottom: 1px solid $border-color;
   }
