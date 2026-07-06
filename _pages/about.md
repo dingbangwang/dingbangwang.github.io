@@ -108,7 +108,6 @@ redirect_from:
 <br> MTH 151:  Calculus I && MTH 251: Calculus II. (Fall 2016 - Spring 2019)
 <br> Miami University 
 <br> Certificates: CRLA Level 1 (Regular), Level 2 (Advanced), Level 3 (Master) Certified Tutor 
-
 </div>
 
 <div class="info-card" markdown="1">
