@@ -80,7 +80,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="info-card" markdown="1">
+<div class="info-card compact-list" markdown="1">
 
 ## Academic Service
 **Program Committee Member**
@@ -110,7 +110,7 @@ redirect_from:
 <br> Certificates: CRLA Level 1 (Regular), Level 2 (Advanced), Level 3 (Master) Certified Tutor 
 </div>
 
-<div class="info-card honors-card" markdown="1">
+<div class="info-card compact-list" markdown="1">
 
 ## Honors and Awards
 * Predoctoral Prize for Research Excellence, University of Connecticut
