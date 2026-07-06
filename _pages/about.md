@@ -113,11 +113,11 @@ redirect_from:
 <div class="info-card compact-list">
   <h2>Honors and Awards</h2>
   <ul class="cv-list">
-    <li><span class="cv-list__title">Predoctoral Prize for Research Excellence</span><span class="cv-list__place">University of Connecticut</span></li>
-    <li><span class="cv-list__title">Graduate Research Assistantship (Fully Funded)</span><span class="cv-list__place">University of Connecticut</span></li>
-    <li><span class="cv-list__title">Robert J. Herbold Fellowship</span><span class="cv-list__place">University of Cincinnati</span></li>
-    <li><span class="cv-list__title">Graduate Research Assistantship (Fully Funded)</span><span class="cv-list__place">University of Cincinnati</span></li>
-    <li><span class="cv-list__title">Grothen CS &amp; SA scholarship</span><span class="cv-list__place">Miami Univeristy</span></li>
+    <li><span class="cv-list__row"><span class="cv-list__title">Predoctoral Prize for Research Excellence</span><span class="cv-list__place">University of Connecticut</span></span></li>
+    <li><span class="cv-list__row"><span class="cv-list__title">Graduate Research Assistantship (Fully Funded)</span><span class="cv-list__place">University of Connecticut</span></span></li>
+    <li><span class="cv-list__row"><span class="cv-list__title">Robert J. Herbold Fellowship</span><span class="cv-list__place">University of Cincinnati</span></span></li>
+    <li><span class="cv-list__row"><span class="cv-list__title">Graduate Research Assistantship (Fully Funded)</span><span class="cv-list__place">University of Cincinnati</span></span></li>
+    <li><span class="cv-list__row"><span class="cv-list__title">Grothen CS &amp; SA scholarship</span><span class="cv-list__place">Miami Univeristy</span></span></li>
   </ul>
 </div>
 
