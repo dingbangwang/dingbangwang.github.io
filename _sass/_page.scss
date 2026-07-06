@@ -55,6 +55,23 @@
     border-bottom: 1px solid $border-color;
   }
 
+  .info-card {
+    margin-bottom: 2em;
+    padding: 1.5em 2em;
+    background-color: #fff;
+    border: 1px solid $border-color;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+
+    h2 {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
   p, li, dl {
     font-size: 1em;
   }

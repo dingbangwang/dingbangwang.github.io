@@ -14,6 +14,8 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 
 
 
+<div class="info-card" markdown="1">
+
 ## Publications
 
 1. **[ISSTA'26] ConFL: Explainable Concurrent Fault Localization via Hierarchy-Guided LLM Reasoning.** \
@@ -34,6 +36,10 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 7. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** \
     <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu.
 
+</div>
+
+<div class="info-card" markdown="1">
+
 ## Academic Service
 - **Program Committee Member**
   - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
@@ -47,6 +53,9 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
   - Engineering Applications of Artificial Intelligence (EAAI)
   - ACM Conference on Intelligent User Interfaces (IUI) [&apos;25]
 
+</div>
+
+<div class="info-card" markdown="1">
 
 ## Teaching
 **Substitute Instructor**
@@ -58,12 +67,18 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 <br> Miami University 
 <br> Certificates: CRLA Level 1 (Regular), Level 2 (Advanced), Level 3 (Master) Certified Tutor 
 
+</div>
+
+<div class="info-card" markdown="1">
+
 ## Honors and Awards
 * Predoctoral Prize for Research Excellence, University of Connecticut
 * Graduate Research Assistantship (Fully Funded), University of Connecticut 
 * Robert J. Herbold Fellowship, University of Cincinnati
 * Graduate Research Assistantship (Fully Funded), University of Cincinnati 
 * Grothen CS & SA scholarship, Miami Univeristy
+
+</div>
 
 
 
