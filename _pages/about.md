@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="info-card profile-card">
+<div class="profile-card">
   <div class="profile-card__avatar">
     <img src="{{ '/images/db.png' | relative_url }}" alt="{{ site.author.name }}">
   </div>
