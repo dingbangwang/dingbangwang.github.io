@@ -97,6 +97,13 @@
     }
   }
 
+  .compact-list strong {
+    display: inline-block;
+    margin-top: 0.5em;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid $border-color;
+  }
+
   .pub-card {
     .pub-card__header h2 {
       margin-bottom: 0;
