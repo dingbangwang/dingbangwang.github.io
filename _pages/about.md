@@ -14,28 +14,61 @@ I am a Ph.D. student in the School of Computing at the University of Connecticut
 
 
 
-<div class="info-card" markdown="1">
-
-## Publications
-
-1. **[ISSTA'26] ConFL: Explainable Concurrent Fault Localization via Hierarchy-Guided LLM Reasoning.** \
-   Shuai Shao, <ins>Dingbang Wang</ins>, Yiming Zeng, Tingting Yu. 
-   
-2. **[FSE'26] ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.** \
-   Sidong Feng, <ins>Dingbang Wang</ins>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen. 
-3. **[FSE'26 IVR] Bio-Aware Software Engineering for Reproducible Research.** \
-   Yiming Zeng, <ins>Dingbang Wang</ins>, Ryan Green, Jinze Liu, Tingting Yu. 
-4. **[MSR'25] An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.** \
-   <ins>Dingbang Wang</ins>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu. 
-   
-5. **[ISSTA'24] Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.**  \
-   <ins>Dingbang Wang</ins>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu. 
-   
-6. **[APSEC'24] A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.** \
-   Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <ins>Dingbang Wang</ins>, and Yu Zhao. 
-7. **[ESEM'23] An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.** \
-    <ins>Dingbang Wang</ins>, Yu Zhao, Lu Xiao, and Tingting Yu.
-
+<div class="info-card pub-card">
+  <div class="pub-card__header">
+    <h2>Publications</h2>
+  </div>
+  <div class="pub-list">
+    <div class="pub-row">
+      <div class="pub-venue">ISSTA&rsquo;26</div>
+      <div class="pub-body">
+        <div class="pub-title">ConFL: Explainable Concurrent Fault Localization via Hierarchy-Guided LLM Reasoning.</div>
+        <div class="pub-authors">Shuai Shao, <u>Dingbang Wang</u>, Yiming Zeng, Tingting Yu.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">FSE&rsquo;26</div>
+      <div class="pub-body">
+        <div class="pub-title">ViBR: Automated Bug Replay from Video-based Reports Using Vision-Language Models.</div>
+        <div class="pub-authors">Sidong Feng, <u>Dingbang Wang</u>, Nikola Tomic, Tingting Yu, Aldeida Aleti, Chunyang Chen.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">FSE&rsquo;26 IVR</div>
+      <div class="pub-body">
+        <div class="pub-title">Bio-Aware Software Engineering for Reproducible Research.</div>
+        <div class="pub-authors">Yiming Zeng, <u>Dingbang Wang</u>, Ryan Green, Jinze Liu, Tingting Yu.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">MSR&rsquo;25</div>
+      <div class="pub-body">
+        <div class="pub-title">An Empirical Study on Leveraging Images in Automated Bug Report Reproduction.</div>
+        <div class="pub-authors"><u>Dingbang Wang</u>, Zhaoxu Zhang, Sidong Feng, William G.J. Halfond, Tingting Yu.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">ISSTA&rsquo;24</div>
+      <div class="pub-body">
+        <div class="pub-title">Feedback-Driven Automated Whole Bug Report Reproduction for Android Apps.</div>
+        <div class="pub-authors"><u>Dingbang Wang</u>, Yu Zhao, Sidong Feng, Zhaoxu Zhang, William G.J. Halfond, Chunyang Chen, Xiaoxia Sun, Jiangfan Shi, and Tingting Yu.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">APSEC&rsquo;24</div>
+      <div class="pub-body">
+        <div class="pub-title">A Study of Using Multimodal LLMs for Non-Crash Functional Bug Detection in Android Apps.</div>
+        <div class="pub-authors">Bangyan Ju, Jin Yang, Tingting Yu, Tamerlan Abdullayev, Yuanyuan Wu, <u>Dingbang Wang</u>, and Yu Zhao.</div>
+      </div>
+    </div>
+    <div class="pub-row">
+      <div class="pub-venue">ESEM&rsquo;23</div>
+      <div class="pub-body">
+        <div class="pub-title">An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment.</div>
+        <div class="pub-authors"><u>Dingbang Wang</u>, Yu Zhao, Lu Xiao, and Tingting Yu.</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="info-card" markdown="1">
