@@ -11,14 +11,14 @@ redirect_from:
 <div class="profile-card">
   <div class="profile-card__avatar">
     <img src="{{ '/images/db.png' | relative_url }}" alt="{{ site.author.name }}">
-  </div>
-  <div class="profile-card__body">
-    <h2 class="profile-card__name">{{ site.author.name }}</h2>
-    <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics)</em>.</p>
     <ul class="profile-card__links">
       <li><a href="mailto:{{ site.author.email }}" title="Email" aria-label="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a></li>
       <li><a href="{{ site.author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>
     </ul>
+  </div>
+  <div class="profile-card__body">
+    <h2 class="profile-card__name">{{ site.author.name }}</h2>
+    <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics)</em>.</p>
   </div>
 </div>
 
@@ -113,11 +113,11 @@ redirect_from:
 <div class="info-card" markdown="1">
 
 ## Honors and Awards
-* Predoctoral Prize for Research Excellence, University of Connecticut
-* Graduate Research Assistantship (Fully Funded), University of Connecticut 
-* Robert J. Herbold Fellowship, University of Cincinnati
-* Graduate Research Assistantship (Fully Funded), University of Cincinnati 
-* Grothen CS & SA scholarship, Miami Univeristy
+Predoctoral Prize for Research Excellence, University of Connecticut \
+Graduate Research Assistantship (Fully Funded), University of Connecticut \
+Robert J. Herbold Fellowship, University of Cincinnati \
+Graduate Research Assistantship (Fully Funded), University of Cincinnati \
+Grothen CS & SA scholarship, Miami Univeristy
 
 </div>
 
