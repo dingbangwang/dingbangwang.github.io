@@ -100,9 +100,15 @@
 
     .pub-venue {
       flex: 0 0 110px;
-      color: $light-gray;
-      font-size: $type-size-6;
+      align-self: flex-start;
+      margin-top: 0.15em;
+      padding: 0.3em 0.75em;
+      background-color: $lighter-gray;
+      color: $dark-gray;
+      font-size: $type-size-7;
       font-weight: 600;
+      text-align: center;
+      border-radius: 999px;
     }
 
     .pub-body {
@@ -116,7 +122,7 @@
 
     .pub-authors {
       font-style: italic;
-      color: $light-gray;
+      color: $gray;
       font-size: $type-size-6;
     }
   }
