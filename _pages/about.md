@@ -18,7 +18,7 @@ redirect_from:
   </div>
   <div class="profile-card__body">
     <h2 class="profile-card__name">{{ site.author.name }}</h2>
-    <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics)</em>.</p>
+    <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics, health communication)</em>.</p>
   </div>
 </div>
 
