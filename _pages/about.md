@@ -83,17 +83,17 @@ redirect_from:
 <div class="info-card" markdown="1">
 
 ## Academic Service
-- **Program Committee Member**
-  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
-  - IEEE/ACM International Conference on Mining Software Repositories (MSR) [’25 Technical Track (Junior PC)]
+**Program Committee Member**
+- ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
+- IEEE/ACM International Conference on Mining Software Repositories (MSR) [’25 Technical Track (Junior PC)]
 
-- **Reviewer**
-  - IEEE Transactions on Software Engineering (TSE)
-  - Empirical Software Engineering (EMSE)
-  - Journal of Systems and Software (JSS)
-  - Automated Software Engineering (ASE)
-  - Engineering Applications of Artificial Intelligence (EAAI)
-  - ACM Conference on Intelligent User Interfaces (IUI) [&apos;25]
+**Reviewer**
+- IEEE Transactions on Software Engineering (TSE)
+- Empirical Software Engineering (EMSE)
+- Journal of Systems and Software (JSS)
+- Automated Software Engineering (ASE)
+- Engineering Applications of Artificial Intelligence (EAAI)
+- ACM Conference on Intelligent User Interfaces (IUI) [&apos;25]
 
 </div>
 
