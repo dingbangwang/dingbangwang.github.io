@@ -98,6 +98,20 @@
     }
   }
 
+  .cv-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1em;
+  }
+
+  .cv-list__place {
+    flex-shrink: 0;
+    color: $gray;
+    font-size: 0.9em;
+    text-align: right;
+  }
+
   .compact-list strong {
     display: inline-block;
     margin-top: 0.5em;
