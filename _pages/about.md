@@ -84,7 +84,7 @@ redirect_from:
 
 ## Academic Service
 **Program Committee Member**
-- ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track]
+- ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [’25 Tool Track, ’26 Tool Track]
 - IEEE/ACM International Conference on Mining Software Repositories (MSR) [’25 Technical Track (Junior PC)]
 
 **Reviewer**
