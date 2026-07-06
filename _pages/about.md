@@ -1,17 +1,26 @@
 ---
 permalink: /
 layout: single
-author_profile: true
+author_profile: false
 classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-I am a Ph.D. student in the School of Computing at the University of Connecticut advised by [Dr. Tingting Yu](https://tingting-yu.scholar.uconn.edu). I hold a Bachelor's degree in Computer Science from Miami University. My research interests include *AI for software engineering (AI4SE)*, *automated software testing and debugging*, *empirical software engineering*, and *domain-specific software engineering (e.g., bioinformatics)*.
-
-
+<div class="info-card profile-card">
+  <div class="profile-card__avatar">
+    <img src="{{ '/images/db.png' | relative_url }}" alt="{{ site.author.name }}">
+  </div>
+  <div class="profile-card__body">
+    <h2 class="profile-card__name">{{ site.author.name }}</h2>
+    <p class="profile-card__bio">I am a Ph.D. student in the School of Computing at the University of Connecticut advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. I hold a Bachelor's degree in Computer Science from Miami University. My research interests include <em>AI for software engineering (AI4SE)</em>, <em>automated software testing and debugging</em>, <em>empirical software engineering</em>, and <em>domain-specific software engineering (e.g., bioinformatics)</em>.</p>
+    <ul class="profile-card__links">
+      <li><a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
+      <li><a href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+    </ul>
+  </div>
+</div>
 
 
 <div class="info-card pub-card">

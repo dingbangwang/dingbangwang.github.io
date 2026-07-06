@@ -23,6 +23,14 @@
     @include suffix(0.5 of 12);
   }
 
+  &.wide {
+    @include breakpoint($large) {
+      @include span(12 of 12 last);
+      @include prefix(0);
+      @include suffix(0);
+    }
+  }
+
   .page__inner-wrap {
     @include full();
 
@@ -110,6 +118,51 @@
       font-style: italic;
       color: $light-gray;
       font-size: $type-size-6;
+    }
+  }
+
+  .profile-card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.75em;
+    align-items: center;
+
+    &__avatar img {
+      display: block;
+      width: 130px;
+      height: 130px;
+      object-fit: cover;
+      border-radius: 16px;
+    }
+
+    &__body {
+      flex: 1;
+      min-width: 260px;
+    }
+
+    &__name {
+      margin: 0 0 0.5em;
+      padding-bottom: 0;
+      border-bottom: none;
+      font-size: $type-size-3;
+      font-family: $sans-serif;
+    }
+
+    &__bio {
+      margin: 0 0 1em;
+    }
+
+    &__links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em 1.5em;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      a {
+        text-decoration: none;
+      }
     }
   }
 
