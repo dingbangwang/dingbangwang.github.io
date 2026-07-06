@@ -110,14 +110,14 @@ redirect_from:
 <br> Certificates: CRLA Level 1 (Regular), Level 2 (Advanced), Level 3 (Master) Certified Tutor 
 </div>
 
-<div class="info-card" markdown="1">
+<div class="info-card honors-card" markdown="1">
 
 ## Honors and Awards
-Predoctoral Prize for Research Excellence, University of Connecticut \
-Graduate Research Assistantship (Fully Funded), University of Connecticut \
-Robert J. Herbold Fellowship, University of Cincinnati \
-Graduate Research Assistantship (Fully Funded), University of Cincinnati \
-Grothen CS & SA scholarship, Miami Univeristy
+* Predoctoral Prize for Research Excellence, University of Connecticut
+* Graduate Research Assistantship (Fully Funded), University of Connecticut
+* Robert J. Herbold Fellowship, University of Cincinnati
+* Graduate Research Assistantship (Fully Funded), University of Cincinnati
+* Grothen CS & SA scholarship, Miami Univeristy
 
 </div>
 

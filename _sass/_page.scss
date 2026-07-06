@@ -80,6 +80,23 @@
     }
   }
 
+  .honors-card ul {
+    margin: 0;
+    padding-left: 1.1em;
+
+    li {
+      margin-bottom: 0.4em;
+
+      &::marker {
+        font-size: 0.65em;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
   .pub-card {
     .pub-card__header h2 {
       margin-bottom: 0;
