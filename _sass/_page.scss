@@ -206,11 +206,12 @@
     }
 
     &__name {
-      margin: 0 0 0.5em;
+      margin: 0;
       padding-bottom: 0;
       border-bottom: none;
-      font-size: $type-size-3;
+      font-size: 1.05em;
       font-family: $sans-serif;
+      text-align: center;
     }
 
     &__bio {
