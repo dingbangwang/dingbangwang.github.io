@@ -18,7 +18,7 @@ redirect_from:
     </ul>
   </div>
   <div class="profile-card__body">
-    <p class="profile-card__bio">Dingbang Wang is a Ph.D. student in the School of Computing at the University of Connecticut, advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. He holds a Bachelor's degree in Computer Science from Miami University. His research interests include <em>AI for software engineering (AI4SE)</em>, particularly <em>automated software testing and debugging</em>, and <em>domain-specific software engineering (e.g., bioinformatics, health communication)</em>.</p>
+    <p class="profile-card__bio">Dingbang Wang is a Ph.D. student in the School of Computing at the University of Connecticut, advised by <a href="https://tingting-yu.scholar.uconn.edu">Dr. Tingting Yu</a>. He holds a Bachelor's degree in Computer Science from Miami University. His research interests include <em>AI for software engineering (AI4SE)</em>, particularly <em>automated software testing and debugging</em>, and <em>domain-specific software engineering (e.g., bioinformatics, health communication)</em>. He is open to research collaborations — feel free to reach out via email.</p>
   </div>
 </div>
 
