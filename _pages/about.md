@@ -31,6 +31,13 @@ redirect_from:
   </div>
   <div class="pub-list">
     <div class="pub-row">
+      <div class="pub-venue">ASE&rsquo;26</div>
+      <div class="pub-body">
+        <div class="pub-title">Automated Bug Replay via State Reprioritization and LLM-Guided Trajectory Exploration.</div>
+        <div class="pub-authors"><u>Dingbang Wang</u>, Sidong Feng, William G.J. Halfond, Tingting Yu.</div>
+      </div>
+    </div>
+    <div class="pub-row">
       <div class="pub-venue">ISSTA&rsquo;26</div>
       <div class="pub-body">
         <div class="pub-title">ConFL: Explainable Concurrent Fault Localization via Hierarchy-Guided LLM Reasoning.</div>
