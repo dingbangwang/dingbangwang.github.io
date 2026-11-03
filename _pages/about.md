@@ -96,14 +96,13 @@ redirect_from:
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [Tool’25, 26]
 - IEEE/ACM International Conference on Mining Software Repositories (MSR) [Junior PC’25]
 
-**Reviewer**
+**Journal Reviewer**
 - IEEE Transactions on Software Engineering (TSE)
 - ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Empirical Software Engineering (EMSE)
 - Journal of Systems and Software (JSS)
 - Automated Software Engineering (ASE)
 - Engineering Applications of Artificial Intelligence (EAAI)
-- ACM Conference on Intelligent User Interfaces (IUI) [&apos;25]
 
 </div>
 
