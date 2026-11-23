@@ -95,6 +95,7 @@ redirect_from:
 **Program Committee Member**
 - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) [Tool’25, 26]
 - IEEE/ACM International Conference on Mining Software Repositories (MSR) [Junior PC’25]
+- International Workshop on User Interface and Experience for Software Engineering (UISE) [ICSE’27]
 
 **Journal Reviewer**
 - IEEE Transactions on Software Engineering (TSE)
